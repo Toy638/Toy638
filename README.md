@@ -1,4 +1,4 @@
-![Franco's Banner](banner.jpeg)
+![Franco's Banner](Banner.jpeg)
 
 **Full Stack Developer | AI Explorer | Cloud Enthusiast**
 
